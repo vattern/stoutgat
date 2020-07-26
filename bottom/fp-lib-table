@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name TKW)(type KiCad)(uri /home/thys/keyboards/discipline/bottom)(options "")(descr ""))
+)
